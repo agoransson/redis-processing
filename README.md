@@ -3,6 +3,9 @@ redis-processing
 
 A very basic implementation of a Redis pub-sub client.
 
+## Download
+Get the latest library [here](https://github.com/agoransson/redis-processing/downloads)
+
 ## Connect to a Redis host
 ``` java
 Redis redis;
