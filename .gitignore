@@ -1,6 +1,17 @@
 *.class
+*.html
+*.classpath
+*.project
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# Folders #
+distribution/
+resources/
+web/
+data/
+lib/
+*.settings/
